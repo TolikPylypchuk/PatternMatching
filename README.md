@@ -1,7 +1,6 @@
 # PatternMatching
 
 [![NuGet](https://img.shields.io/nuget/v/CSharpStuff.PatternMatching.svg)](https://www.nuget.org/packages/CSharpStuff.PatternMatching/)
-[![Build status](https://ci.appveyor.com/api/projects/status/2scf378j79k6xe7f/branch/master?svg=true)](https://ci.appveyor.com/project/TolikPylypchuk/patternmatching/branch/master)
 
 A library which enables more powerful pattern matching
 than is currently available in the C#'s `switch` statement/expression.
